@@ -1,0 +1,37 @@
+.custom-image-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.container-fluid {
+    height: 100vh;
+}
+
+.col-sm-4 {
+    background-color: #0f0346;
+    box-shadow: 10px 10px 20px rgba(34, 26, 180, 0.427);
+    padding: 3%;
+    border-radius: 60px;
+    margin: auto;
+}
+
+h2{
+    color: #0f0346;
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+h4{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.btn-md {
+    font-weight: bold;
+    
+}
